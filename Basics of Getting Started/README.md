@@ -5,4 +5,7 @@
 	ServerScan.py
 	vuln_banners.txt
 ## UNIX口令破解机
+	unix.py
+	passwords.txt
+	dictionary.txt
 ## ZIP文件口令破解机
